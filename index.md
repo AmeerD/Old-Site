@@ -21,7 +21,7 @@ Hi! My name is Ameer, I'm a recent graduate from the University of Waterloo with
 
 ### Gadsby Text Mining
 
-
+This [draft of the project](./Gadsby_Project.html) discusses the process, findings, and learning outcomes of the Gadsby project.
 
 
 
