@@ -1,3 +1,5 @@
+Ameer's Site
+
 ## About Me
 
 Hi! My name is Ameer, I'm a recent graduate from the University of Waterloo with a Bachelor of Mathematics. 
