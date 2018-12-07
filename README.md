@@ -1,6 +1,6 @@
 Ameer's Site
 
-## About Me
+## About Mex
 
 Hi! My name is Ameer, I'm a recent graduate from the University of Waterloo with a Bachelor of Mathematics. 
 
