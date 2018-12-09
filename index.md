@@ -10,17 +10,17 @@ Hi! My name is Ameer, I'm a recent graduate from the University of Waterloo with
 --Ameer
 
 
-
-
-
-
-
 ## Projects
 
 ### CSEye
 
 March 2018 - September 2018
 
+Conference: AAAI-2019 Student Abstract Category
+
+CSEye is a low-cost, one-to-many facial verfication model that addresses the one-to-many verification process using a unique, three-stage model architecture. First, a truncated VGG19 network extracts features from the suspect image and the candidate images. We then vectorize the extract feature matrices and compute sets of differences based on angle, dot product and element-wise distance measures. Finally, a dense network selects the optimal suspect-candidate match. CSEye was trained on randomly generated suspect-candidate sets from the [Labelled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/) dataset. The angle and distance measures reliably produce accuracy rates exceeding 90% in initial tests with the angle measure reporting accuracies up to 98%. The final camera-ready draft can be found [here](./Dharamshi & Zou - AAAI 2019 Student Abstract 412 CRC.pdf).
+
+The idea behind CSEye was inspired by the final project for Winter 2018 *STAT 841 - Statistical Learning - Classification*. We were challenged to develop a novel classification algorithm and demonstrate it's ability in some domain. My team of three other students and myself decided to create a computer vision model addressing the problem of one-to-many face verification in a low-cost approach without compromising on accuracy. In this project we extracted weights from the suspect and all candidate images with a CNN that employed a weight-sharing scheme. This structure ensured identical treatment of all images. The suspect features are then injected into a dense network as weights to influence the suspect-candidate match. This structure facilitates the interaction between the suspect weights and the candidate weights in the layer preceeding final classification. The [draft](https://github.com/rosiezou/rosiezou.github.io/blob/master/441proj.html) of the initial CSEye project provides a description of the model architecture and approach. The [Jupyter notebook](https://github.com/rosiezou/cvproj/blob/master/441proj.ipynb) containing the model and the [github repository](https://github.com/rosiezou/cvproj) are available for viewing. 
 
 ### Gadsby Text Mining
 
