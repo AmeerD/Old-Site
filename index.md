@@ -19,13 +19,19 @@ Hi! My name is Ameer, I'm a recent graduate from the University of Waterloo with
 
 ### CSEye
 
+March 2018 - September 2018
+
+
 ### Gadsby Text Mining
 
-This [draft of the project](./Gadsby_Project.html) discusses the process, findings, and learning outcomes of the Gadsby project.
+September 2017 - June 2018
+Having thoroughly enjoyed *STAT 442 - Data Visualization* in Fall 2016, I approached Professor Wayne Oldford upon returning to university the following Fall semester to work on a project together. After discussing interesting datasets available and thinking about what may be useful from a curriculum perspective, we settled on a text mining project. Looking at core computational statistics courses, there is very little emphasis on teaching with textual data.
+
+The [final report](./Gadsby_Project.html) discusses the process, findings, and learning outcomes of the Gadsby project.
 
 
 
-## Work Experiences
+## Work Experiences (in construction)
 
 ### Omnia AI
 
@@ -33,7 +39,7 @@ This [draft of the project](./Gadsby_Project.html) discusses the process, findin
 ### ONEX
 
 
-## Other Activities
+## Other Activities (in construction)
 
 ### Student Venture Fund
 
