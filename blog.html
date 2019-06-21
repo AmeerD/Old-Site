@@ -1,0 +1,15 @@
+---
+layout: default
+title: Travel Blog
+---
+
+<h1>Posts</h1>
+
+<u1>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p> {{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</u1>
