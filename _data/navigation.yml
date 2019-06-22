@@ -1,9 +1,9 @@
 main:
-  - name: Home
+  - title: "Home"
     link: /
-  - name: Projects
+  - title: "Projects"
     link: /
-  - name: CV
+  - title: "CV"
     link: /
-  - name: Travel
+  - title: "Travel"
     link: /travel.html
