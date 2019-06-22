@@ -1,4 +1,9 @@
-- name: Home
-  link: /
-- name: Travel Blog
-  link: /blog.html
+main:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /
+  - name: CV
+    link: /
+  - name: Travel
+    link: /travel.html
