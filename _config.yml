@@ -1,5 +1,5 @@
 title: Ameer Dharamshi
-name: Ameer Dharamshi
+name: Ameer Dharamshi TEST
 description: Hello there! Welcome to my personal site!
 remote_theme: "mmistakes/minimal-mistakes@4.16.4"
 
@@ -11,16 +11,6 @@ repository: "AmeerD/AmeerD.github.io"
 
 author:
   name: "Ameer Dharamshi"
-  links:
-    - label:  "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AmeerD"
-      
-      
-    #  - label: "LinkedIn"
-  #    icon: "fab fa-fw fa-linkedin-in"
-  #    url: "https://www.linkedin.com/in/ameerdharamshi"
-  
-  #avatar: "/_assets/images/Canada Boat.jpg"
+
 
 minimal_mistakes_skin: "air"
