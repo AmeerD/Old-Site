@@ -11,14 +11,16 @@ repository: "AmeerD/AmeerD.github.io"
 
 author:
   name: "Ameer Dharamshi"
-  #avatar: "/_assets/images/Canada Boat.jpg"
-  #links:
-  #  - label: "LinkedIn"
+  links:
+    - label:  "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AmeerD"
+      
+      
+    #  - label: "LinkedIn"
   #    icon: "fab fa-fw fa-linkedin-in"
   #    url: "https://www.linkedin.com/in/ameerdharamshi"
-  #  - label:  "Github"
-  #    icon: "fab fa-fw fa-github"
-  #    url: "https://github.com/AmeerD"
   
+  #avatar: "/_assets/images/Canada Boat.jpg"
 
 minimal_mistakes_skin: "air"
