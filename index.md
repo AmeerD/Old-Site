@@ -1,5 +1,4 @@
 ---
-title: Temp
 description:  Hello there! Welcome to my personal site!
 layout: single
 ---
