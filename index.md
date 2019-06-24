@@ -1,6 +1,7 @@
 ---
 title: Ameer's Site
 description:  Hello there! Welcome to my personal site!
+layout: single
 ---
 
 ## About Me
