@@ -14,3 +14,11 @@ author:
 
 
 minimal_mistakes_skin: "air"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
