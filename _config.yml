@@ -9,12 +9,6 @@ plugins:
 locale: "en"
 repository: "AmeerD/AmeerD.github.io"
 
-author:
-  name: "Ameer Dharamshi"
-
-
-minimal_mistakes_skin: "air"
-
 defaults:
   - scope:
       path: ""
@@ -22,3 +16,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+author:
+  name: "Ameer Dharamshi"
+
+
+minimal_mistakes_skin: "air"
+
+
